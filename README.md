@@ -32,3 +32,6 @@ This project allows you to generate, save, and search for passwords. It uses a g
 
 
 Enjoy managing your passwords easily!
+
+
+This program is part of my [Python GUI Programs](https://github.com/Songhai9/GUI-Apps)
